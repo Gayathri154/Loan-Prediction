@@ -1,11 +1,5 @@
 
-# Project Title
-
-A brief description of what this project does and who it's for
-
-Sure! Based on your uploaded file `loan.ipynb`, I'll create a professional and concise README description for your GitHub repository.
-
----
+# Loan Approval Prediction
 
 ## 📊 Loan Prediction Analysis
 
