@@ -3,22 +3,22 @@ Loan Prediction Analysis
 This project focuses on analyzing and predicting loan approval status using machine learning techniques. The Jupyter Notebook loan.ipynb contains a step-by-step approach to understanding and modeling the data for accurate loan predictions.
 
 **Key Features**
-Exploratory Data Analysis (EDA) to understand trends and patterns
-Data cleaning and preprocessing
-Visualization of key insights using Seaborn and Matplotlib
-Model training using classification algorithms
-Evaluation of model performance
+1.Exploratory Data Analysis (EDA) to understand trends and patterns
+2.Data cleaning and preprocessing
+3.Visualization of key insights using Seaborn and Matplotlib
+4.Model training using classification algorithms
+5.Evaluation of model performance
 
 **File**
 loan.ipynb: Contains the complete analysis and machine learning pipeline
 
 **Tools Used**
-Python
-Pandas
-NumPy
-Matplotlib & Seaborn
-Scikit-learn
-Jupyter Notebook
+1.Python
+2.Pandas
+3.NumPy
+4.Matplotlib & Seaborn
+5.Scikit-learn
+6.Jupyter Notebook
 
 **How to Run**
 1.Clone this repository
